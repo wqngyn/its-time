@@ -19,7 +19,7 @@ jobs:
           npm start
       - name: Push .ics file to repository
         run: |
-          git add UFC.ics
+          git add ./ics/UFC.ics
           git commit -m "Update .ics file"
           git push -u origin ics
   
