@@ -3,7 +3,7 @@ import * as ics from "ics";
 import * as fs from "fs";
 import * as path from "path";
 
-const FILEPATH = "../ics/itstime.ics";
+const FILEPATH = "./ics/UFC.ics";
 
 const createICSFiles = async () => {
   const eventObjects = await createEventObjects();
