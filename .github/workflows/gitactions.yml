@@ -17,6 +17,10 @@ jobs:
         run: |
           npm install
           npm start
+      - name: Configure Git
+        run: |
+          git config --global user.name "Will Nguyen"
+          git config --global user.email "101022886+wqngyn@users.noreply.github.com"
       - name: Push .ics file to repository
         run: |
           git add ./ics/UFC.ics
