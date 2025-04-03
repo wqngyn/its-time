@@ -163,7 +163,7 @@ const formatFightNotes = ($, cardType, notesObj) => {
           `${fightWeightArr[0]} ${fightWeightArr[1]}`
         )); // i.e., Light Heavyweight Bout
 
-    fightNotes += `- ${
+    fightNotes += `• ${
       fighterRanks[0] ? `(#${fighterRanks[0]}) ` : ""
     }${redName} ${fighterOdds[0] !== "-" ? `(${fighterOdds[0]})` : ""} vs ${
       fighterRanks[1] ? `(#${fighterRanks[1]}) ` : ""

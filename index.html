@@ -3,26 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/public/favicon.ico" />
+    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>It's Time!</title>
   </head>
   <body>
-    <div id="container">
-      <div class="sidebar">
-        <ul>
-          <li><a href="./index.html">Calendar</a></li>
-          <li><a href="./about.html">Github</a></li>
-        </ul>
-       <div class="icon" id="apple">
-        <a href="webcal://https://raw.githubusercontent.com/wqngyn/its-time/main/exports/UFC.ics">Download Apple Calendar</a>
-       </div>
-      <div class="icon" id="google">
-        <a href="https://calendar.google.com/calendar/u/0/r?cid=webcal://https://raw.githubusercontent.com/wqngyn/its-time/main/exports/UFC.ics">Download Google Calendar</a>
+    <div class="container">
+      <h1>"It's Time!" UFC Cal</h1>
+      <div class="container-icons">
+        <div class="icon" id="apple">
+          <h4 class ="icon-heading">Subscribe on Apple</h4>
+          <a href="webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/Apple_Calendar.png" alt=""></a>
+          </div>
+        <div class="icon" id="google">
+          <h4 class ="icon-heading">Subscribe on Google</h4>
+          <a href="https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/Google_Calendar.png" alt=""></a>
+        </div>
       </div>
-      <div class="icon" id="copy">
-        <a href=""></a>
-      </div>
-      </div>
+        <textarea readonly draggable="false">webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics</textarea>
+        <p>Created by <a href="https://www.linkedin.com/in/williamqtnguyen/" target="_blank" >William Nguyen</a></p>
+        <a href="https://github.com/wqngyn/its-time" target="_blank">Github Repo</a>
+  
     </div>
   </body>
 </html>

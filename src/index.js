@@ -1,7 +1,6 @@
 import { createEventObjects } from "./scrape.js";
 import * as ics from "ics";
 import * as fs from "fs";
-import * as path from "path";
 
 const FILEPATH = "./exports/UFC.ics";
 
@@ -10,9 +9,14 @@ const createICSFiles = async () => {
   const formattedEventObjects = eventObjects.map(formatEvents);
   // console.log(formattedEventObjects);
   const icsEvents = ics.createEvents(formattedEventObjects);
+  const icsEventsWithTitle = icsEvents.value.replace(
+    "BEGIN:VCALENDAR",
+    "BEGIN:VCALENDAR\nX-WR-CALNAME: UFC"
+  );
+  console.log(icsEventsWithTitle);
   // console.log(icsEvents.value);
   // console.log(icsEvents.error);
-  fs.writeFileSync(FILEPATH, icsEvents.value);
+  fs.writeFileSync(FILEPATH, icsEventsWithTitle);
 };
 
 const formatEvents = (event) => {
