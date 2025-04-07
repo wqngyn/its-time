@@ -9,8 +9,8 @@ body {
     overflow-x: hidden; 
 }
 
-h1,h3 {
-    text-align: center;
+h4 {
+    padding-top: 0.5rem;
 }
 
 textarea {
@@ -45,6 +45,18 @@ textarea {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
+ img {
+    width: 200px;
+    cursor: pointer;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
 @media(max-width: 767px) {
     .container-icons {
         flex-direction: column;
@@ -52,5 +64,9 @@ textarea {
     
     textarea {
         width: calc(100% - 180px)
+    }
+
+    img {
+        width: 275px;
     }
 }

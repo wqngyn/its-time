@@ -5,7 +5,7 @@
     <link rel="icon" type="image/svg+xml" href="/public/favicon.ico" />
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>It's Time!</title>
+    <title> It's Time!</title>
   </head>
   <body>
     <div class="container">
@@ -13,17 +13,25 @@
       <div class="container-icons">
         <div class="icon" id="apple">
           <h4 class ="icon-heading">Subscribe on Apple</h4>
-          <a href="webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/Apple_Calendar.png" alt=""></a>
+          <a href="webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/img/Apple_Calendar.png" alt=""></a>
           </div>
         <div class="icon" id="google">
           <h4 class ="icon-heading">Subscribe on Google</h4>
-          <a href="https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/Google_Calendar.png" alt=""></a>
+          <a href="https://calendar.google.com/calendar/u/0/r?cid=webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics"><img src="./src/assets/img/Google_Calendar.png" alt=""></a>
+        </div>
+        <div class="icon" id="clipboard">
+          <h4 class="icon-heading">Copy URL to Clipboard</h4>
+          <input type="text" value="webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics" id="textToCopy" style="position: absolute; left: -9999px;">
+          <img src="./src/assets/img/Copy.svg" alt="">
         </div>
       </div>
-        <textarea readonly draggable="false">webcal://raw.githubusercontent.com/wqngyn/its-time/refs/heads/main/exports/UFC.ics</textarea>
-        <p>Created by <a href="https://www.linkedin.com/in/williamqtnguyen/" target="_blank" >William Nguyen</a></p>
-        <a href="https://github.com/wqngyn/its-time" target="_blank">Github Repo</a>
-  
+         <div class="bottom">
+          <p>Created by <a href="https://www.linkedin.com/in/williamqtnguyen/" target="_blank" >Will N.</a></p>
+          <a href="https://github.com/wqngyn/its-time" target="_blank">Github Repo</a>
+         </div>
+ 
+    
     </div>
+    <script src="./src/page.js"></script>
   </body>
 </html>
