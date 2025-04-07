@@ -135,6 +135,7 @@ const formatFightNotes = ($, cardType, notesObj) => {
       ["Decision - Unanimous", "DEC"],
       ["Decision - Split", "DEC"],
       ["KO/TKO", "T/KO"],
+      ["TKO - Doctor's Stoppage", "TKO"],
     ]);
 
     let fightNotes = "";
