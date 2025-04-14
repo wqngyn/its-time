@@ -13,7 +13,7 @@ const createEventObjects = async () => {
   const mapPromise = eventURLs.map(async (url) => {
     const html = await extractHTML(url);
     const event = getEventDetails(html, url);
-    eventObjArr.push(event);
+    if (event.startTime && event.endTime) eventObjArr.push(event);
   });
   await Promise.all(mapPromise);
   return eventObjArr;
@@ -55,12 +55,9 @@ const getEventDetails = (html, url) => {
     const headlinePrefix =
       // i.e., UFC Fight Night or UFC 300
       $(".field--name-node-title").find("h1").first()?.text().trim() || "TBD";
-    const headlineFight =
-      `${$("span.e-divider__top").text().trim()} vs. ${$(
-        "span.e-divider__bottom"
-      )
-        ?.text()
-        .trim()}` || "TBD vs. TBD";
+    const headlineFight = `${
+      $("span.e-divider__top").text().trim() || "TBD"
+    } vs. ${$("span.e-divider__bottom")?.text().trim() || "TBD"}`;
     const headline = `${headlinePrefix}: ${headlineFight}`;
 
     const location =
@@ -69,17 +66,20 @@ const getEventDetails = (html, url) => {
         ?.text()
         .replace(/\s{2,}/gm, "")}`.replace(/,/g, ", ") || "";
 
-    const mainUnix = $("div.c-hero__headline-suffix")?.attr("data-timestamp");
-    main.time = unixToUTC(mainUnix);
+    const mainUnix =
+      $("div.c-hero__headline-suffix")?.attr("data-timestamp") || null;
+    if (mainUnix) main.time = unixToUTC(mainUnix);
 
-    const prelimsTimestamp = $(
-      "#prelims-card .c-event-fight-card-broadcaster__time"
-    )?.attr("data-timestamp");
+    const prelimsTimestamp =
+      $("#prelims-card .c-event-fight-card-broadcaster__time")?.attr(
+        "data-timestamp"
+      ) || null;
     if (prelimsTimestamp) prelims.time = unixToUTC(prelimsTimestamp);
 
-    const earlyPrelimsTimestamp = $(
-      "#early-prelims .c-event-fight-card-broadcaster__time"
-    )?.attr("data-timestamp");
+    const earlyPrelimsTimestamp =
+      $("#early-prelims .c-event-fight-card-broadcaster__time")?.attr(
+        "data-timestamp"
+      ) || null;
     if (earlyPrelimsTimestamp)
       earlyPrelims.time = unixToUTC(earlyPrelimsTimestamp);
 
@@ -90,10 +90,13 @@ const getEventDetails = (html, url) => {
       startTime = prelims.time;
     } else if (main.time) {
       startTime = main.time;
+    } else {
+      startTime = null;
     }
-    const endTime = unixToUTC(parseInt(mainUnix) + 10800); // Assume event ends three hours after main card starts
-    if (!startTime || !endTime)
-      throw new Error(`start and/or end time from ${url}`);
+
+    let endTime = null;
+    // Assume event ends three hours after main card starts
+    if (startTime) endTime = unixToUTC(parseInt(mainUnix) + 10800);
 
     if (main.time) formatFightNotes($, "#main-card", main);
     if (prelims.time) formatFightNotes($, "#prelims-card", prelims);

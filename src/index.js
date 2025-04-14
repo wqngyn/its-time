@@ -20,7 +20,7 @@ const createICSFiles = async () => {
 
     const icsEvents = ics.createEvents(formattedEventObjects);
     if (!icsEvents.value)
-      throw new Error("Error creating ICS event(s) from formattdEventObjects");
+      throw new Error("Error creating ICS event(s) from formattedEventObjects");
     console.log("ICS events created from formatted event objects...");
 
     const icsEventsWithTitle = icsEvents.value.replace(
