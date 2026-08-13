@@ -6,67 +6,64 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mwHT3laUO0FKqET1pWtB1
+UID:u-MmtIsuftJrPwTb_tYbz
 SUMMARY:UFC Fight Night: Buckley vs. Malott
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20261018T000000Z
 DESCRIPTION:https://www.ufc.com/event/ufc-fight-night-october-17-2026\n\nLa
-	st Updated August 12\, 2026 at 01:39 PM PDT
+	st Updated August 12\, 2026 at 06:43 PM PDT
 LOCATION:Rogers Place\, Edmonton\nCanada
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:veawsREn_KGVGgNLPNRG6
+UID:mOrxKytLd4UcmIWZpw8AU
 SUMMARY:UFC 333: TBD vs. TBD
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20261024T180000Z
 DESCRIPTION:https://www.ufc.com/event/ufc-333\n\nLast Updated August 12\, 2
-	026 at 01:39 PM PDT
+	026 at 06:43 PM PDT
 LOCATION:Etihad Arena\, Yas Island/Yas West\nUnited Arab Emirates
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:VUjltjqQxj6GqTR-sKz0u
+UID:ZT1yZyaanvtFPgvKRulX2
 SUMMARY:UFC Fight Night: TBD vs. TBD
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260926T220000Z
 DESCRIPTION:https://www.ufc.com/event/ufc-fight-night-september-26-2026\n\n
-	Last Updated August 12\, 2026 at 01:39 PM PDT
+	Last Updated August 12\, 2026 at 06:43 PM PDT
 LOCATION:Meta APEX\, Las Vegas\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:Rj5MrIK931T4cZgrbjGtI
-SUMMARY:UFC Fight Night: Hooker vs. Parnasse
-DTSTAMP:20260812T203920Z
-DTSTART:20260905T160000Z
-DESCRIPTION:Main:\n➡️  (#10) Hooker (+275) vs Parnasse (-350) @ 155\n➡️  Veno
-	m Page vs Ruziboev @ 185\n➡️  Charriere vs Lima @ 145\n\nPrelims:\n➡️  Pinto
-	 vs Spann @ 265\n➡️  Campbell vs Peek @ 145\n➡️  Wood vs Santos @ 145\n➡️  Le
-	tho Duclos vs Felipe Dias @ 185\n\nhttps://www.ufc.com/event/ufc-fight-nig
-	ht-september-05-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Accor Arena\, Paris\nFrance
+UID:n6UNx2fjuaktof9LWr2Su
+SUMMARY:UFC 332: TBD vs. TBD
+DTSTAMP:20260813T014346Z
+DTSTART:20261004T010000Z
+DESCRIPTION:https://www.ufc.com/event/ufc-332\n\nLast Updated August 12\, 2
+	026 at 06:43 PM PDT
+LOCATION:Delta Center\, Salt Lake City\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
+DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:jgDI5d3gPLfInCDgaI2YA
+UID:nSepYTlrW2G-PxFtFGEDP
 SUMMARY:UFC Fight Night: Hernandez vs. Rodrigues
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260822T210000Z
 DESCRIPTION:Main:\n➡️  (#6) Hernandez (-155) vs (#11) Rodrigues (+130) @ 185
 	\n➡️  (#6) Spivac (+135) vs Petrino (-160) @ 265\n➡️  de Ridder (+270) vs Do
-	lidze (-340) @ 205\n➡️  Judice (-450) vs Chaves (+350) @ 115\n➡️  Nzechukwu 
+	lidze (-340) @ 205\n➡️  Judice (-450) vs Chaves (+350) @ 125\n➡️  Nzechukwu 
 	(+105) vs Gaziev (-125) @ 265\n\nPrelims:\n➡️  Schultz vs McVey @ 185\n➡️  S
 	teele vs Young @ 155\n➡️  Dyer vs Reed @ 115\n\nhttps://www.ufc.com/event/u
-	fc-fight-night-august-22-2026\n\nLast Updated August 12\, 2026 at 01:39 PM
+	fc-fight-night-august-22-2026\n\nLast Updated August 12\, 2026 at 06:43 PM
 	 PDT
 LOCATION:Golden 1 Center\, Sacramento\nUnited States
 STATUS:CONFIRMED
@@ -74,9 +71,40 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:8RMWzAhganHsLAmUNE7oE
+UID:kBGE9XiW4tVq5apdOK9lh
+SUMMARY:UFC Fight Night: Hooker vs. Parnasse
+DTSTAMP:20260813T014346Z
+DTSTART:20260905T160000Z
+DESCRIPTION:Main:\n➡️  (#10) Hooker (+275) vs Parnasse (-350) @ 155\n➡️  Veno
+	m Page vs Ruziboev @ 185\n➡️  Charriere vs Lima @ 145\n\nPrelims:\n➡️  Pinto
+	 vs Spann @ 265\n➡️  Campbell vs Peek @ 145\n➡️  Wood vs Santos @ 145\n➡️  Le
+	tho Duclos vs Felipe Dias @ 185\n\nhttps://www.ufc.com/event/ufc-fight-nig
+	ht-september-05-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Accor Arena\, Paris\nFrance
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:8Ip0pHHBOGMWB5_OdiDWH
+SUMMARY:UFC Fight Night: Nurmagomedov vs. Song
+DTSTAMP:20260813T014346Z
+DTSTART:20260829T070000Z
+DESCRIPTION:Main:\n➡️  (#3) Nurmagomedov (-450) vs (#6) Yadong (+350) @ 135\
+	n➡️  (#4) Xiaonan vs (#14) Gomes @ 115\n➡️  Aoriqileng vs Asakura @ 135\n➡️  
+	(#11) Perez vs (#11) Sumudaerji @ 125\n➡️  Ce vs Tafa @ 205\n➡️  Batbayar vs
+	 Lima @ 125\n\nPrelims:\n➡️  Jenkins vs Woodson @ 145\n➡️  Tsuruya vs Borjas
+	 @ 125\n➡️  Jingnan vs Polastri @ 115\n\nhttps://www.ufc.com/event/ufc-figh
+	t-night-august-29-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Oriental Sports Center\, Pudong District\nChina
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:MlaMLlGu5vxU_khD2HNGQ
 SUMMARY:Noche UFC: Rodriguez vs. Silva
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260912T180000Z
 DESCRIPTION:Main:\n➡️  (#5) Rodriguez (+250) vs (#6) Silva (-310) @ 145\n➡️  
 	(#8) Moreno vs Morales @ 125\n➡️  McMillen vs Rahiki @ 145\n➡️  (#2) Fiorot 
@@ -84,32 +112,16 @@ DESCRIPTION:Main:\n➡️  (#5) Rodriguez (+250) vs (#6) Silva (-310) @ 145\n➡
 	 Martinez vs Ige @ 135\n\nPrelims:\n➡️  (#13) Elliott vs (#15) Chairez @ 12
 	5\n➡️  Bahamondes vs Salikhov @ 170\n➡️  Gastelum vs Belgaroui @ 185\n➡️  (#1
 	4) Aldrich vs Tarin @ 125\n\nhttps://www.ufc.com/event/ufc-fight-night-sep
-	tember-12-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
+	tember-12-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
 LOCATION:Desert Diamond Arena\, Glendale\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:wMJzsIuZ7F3MCF8Edfxbb
-SUMMARY:UFC Fight Night: Nurmagomedov vs. Song
-DTSTAMP:20260812T203920Z
-DTSTART:20260829T070000Z
-DESCRIPTION:Main:\n➡️  (#3) Nurmagomedov (-450) vs (#6) Yadong (+350) @ 135\
-	n➡️  (#4) Xiaonan vs (#14) Gomes @ 115\n➡️  Aoriqileng vs Asakura @ 135\n➡️  
-	(#11) Perez vs (#11) Sumudaerji @ 125\n➡️  Ce vs Tafa @ 205\n➡️  Batbayar vs
-	 Lima @ 125\n\nPrelims:\n➡️  Jenkins vs Woodson @ 145\n➡️  Tsuruya vs Borjas
-	 @ 125\n➡️  Jingnan vs Polastri @ 115\n\nhttps://www.ufc.com/event/ufc-figh
-	t-night-august-29-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Oriental Sports Center\, Pudong District\nChina
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:3MAmMc5BsCKkNEUSN9qLL
+UID:RfjGtM_XRQV2QlTfnMrjc
 SUMMARY:UFC Freedom 250: Topuria vs. Gaethje
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260615T000000Z
 DESCRIPTION:Main:\n➡️  (#CC) Topuria vs Gaethje 🏆 by T/KO @ 155\n➡️  (#1) Per
 	eira (-115) vs Gane (-105) 🏆 by T/KO @ N/A\n➡️  (#3) O'Malley (-360) 🏆 by T
@@ -117,182 +129,16 @@ DESCRIPTION:Main:\n➡️  (#CC) Topuria vs Gaethje 🏆 by T/KO @ 155\n➡️  
 	wis (+265) @ 265\n➡️  (#9) Ruffy (-700) 🏆 by T/KO vs (#13) Chandler (+500) 
 	@ 155\n➡️  Nickal (-300) 🏆 by T/KO vs Daukaus (+240) @ 185\n➡️  (#2) Lopes (
 	-185) 🏆 by T/KO vs (#9) Garcia (+155) @ 145\n\nhttps://www.ufc.com/event/u
-	fc-freedom-250\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
+	fc-freedom-250\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
 LOCATION:The White House\, Washington\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT3H
 END:VEVENT
 BEGIN:VEVENT
-UID:X4S8nVh3vJt_ZZj19jjnD
-SUMMARY:UFC Fight Night: Ankalaev vs. Guskov
-DTSTAMP:20260812T203920Z
-DTSTART:20260725T130000Z
-DESCRIPTION:Main:\n➡️  (#1) Ankalaev (-535) 🏆 by T/KO vs (#9) Guskov (+400) 
-	@ 205\n➡️  (#10) Erceg (-115) vs Temirov (-105) 🏆 by T/KO @ 125\n➡️  Zaynuko
-	v (-270) 🏆 by DEC vs Rzepecki (+220) @ 155\n➡️  (#8) Kuniev (-350) 🏆 by T/K
-	O vs (#9) Fortune (+255) @ 265\n➡️  Vagaev (-260) 🏆 by DEC vs Izagakhmaev (
-	+195) @ 170\n➡️  Bonfim (+165) vs Sola (-200) 🏆 by SUB @ 155\n\nPrelims:\n➡️
-	  (#13) Walker (-185) 🏆 by SUB vs Petersen (+145) @ 265\n➡️  Jacoby (-185) 
-	vs Saidov (+145) 🏆 by T/KO @ 205\n➡️  Ponzinibbio (+375) vs Patterson (-500
-	) 🏆 by T/KO @ 170\n➡️  Tuchalov (-900) 🏆 by DEC vs Ribeiro (+550) @ 205\n➡️ 
-	 Aliev (-220) 🏆 by DEC vs Davis (+170) @ 155\n➡️  Gibson (+400) vs Hussein 
-	(-600) 🏆 by SUB @ 135\n\nhttps://www.ufc.com/event/ufc-fight-night-july-25
-	-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Etihad Arena\, Yas Island/Yas West\nUnited Arab Emirates
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:mrLCi7dBBGEpwBm0L7zaR
-SUMMARY:UFC 330: Makhachev vs. Machado Garry
-DTSTAMP:20260812T203920Z
-DTSTART:20260815T213000Z
-DESCRIPTION:Main:\n➡️  (C) Makhachev (-350) vs (#1) Machado Garry (+275) @ 1
-	70\n➡️  (C) Dern (-220) vs (#5) Robertson (+180) @ 115\n➡️  Turner (-165) vs
-	 Fernandes (+140) @ 155\n➡️  Abdul-Malik (-650) vs Stoltzfus (+475) @ 185\n
-	➡️  Barboza (+425) vs Ribovics (-575) @ 155\n\nPrelims:\n➡️  Njokuani (+225)
-	 vs Álvarez (-280) @ 170\n➡️  Johnson vs Chapolin @ CW\n➡️  Johnson (-240) v
-	s McConico (+195) @ 185\n➡️  Luque (+105) vs Gore (-125) @ 185\n\nEarly Pre
-	lims:\n➡️  Tobias (+240) vs Fernando (-300) @ 205\n➡️  Magny (+110) vs Brahi
-	maj (-130) @ 170\n➡️  Wells (+600) vs Orolbai (-900) @ 170\n\nhttps://www.u
-	fc.com/event/ufc-330\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Xfinity Mobile Arena\, Philadelphia\nUnited States
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H30M
-END:VEVENT
-BEGIN:VEVENT
-UID:Jq1Pd5qYMQNGjOKrEapcx
-SUMMARY:UFC Fight Night: Du Plessis vs. Usman
-DTSTAMP:20260812T203920Z
-DTSTART:20260718T210000Z
-DESCRIPTION:Main:\n➡️  (#2) Du Plessis (-235) 🏆 by DEC vs (#9) Usman (+180) 
-	@ 185\n➡️  (#10) Cannonier (+270) vs (#12) Leroy Duncan (-340) 🏆 by DEC @ 1
-	85\n➡️  Hooper (-390) 🏆 by SUB vs Ramirez (+280) @ 155\n➡️  (#8) Ricci (+350
-	) vs (#11) Kline (-500) 🏆 by DEC @ 115\n➡️  McMillen (-200) 🏆 by T/KO vs Mo
-	ntes (+155) @ 145\n\nPrelims:\n➡️  Bashi (-145) vs Miguel Delgado (+115) 🏆 
-	by DEC @ 145\n➡️  Lebosnoyani (+150) 🏆 by DEC vs Ko (-190) @ 170\n➡️  Rodrig
-	ues Jr. (-160) vs Franco (+125) 🏆 by T/KO @ 205\n➡️  Elliot (+105) 🏆 by DEC
-	 vs Anderson (-135) @ 145\n➡️  Coria (-1300) 🏆 by DEC vs Nicoll (+675) @ 12
-	5\n➡️  Harris (+100) 🏆 by T/KO vs Hines (-125) @ 265\n➡️  Melisano (+425) vs
-	 Barbosa (-650) 🏆 by SUB @ 125\n\nhttps://www.ufc.com/event/ufc-fight-nigh
-	t-july-18-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Paycom Center\, Oklahoma City\nUnited States
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:JSqSn3dI5KT99tUpvBIMY
-SUMMARY:Crypto.com UFC 331: Van vs. Pantoja 2
-DTSTAMP:20260812T203920Z
-DTSTART:20260919T210000Z
-DESCRIPTION:Main:\n➡️  (C) Van (-110) vs (#1) Pantoja (-110) @ 125\n➡️  (#2) 
-	Tsarukyan vs (#7) Ruffy @ 155\n➡️  (#15) Pitbull vs Choi @ 145\n➡️  (#11) Mo
-	icano vs Ortega @ 155\n➡️  (#14) Menifield vs Baraniewski @ 205\n\nPrelims:
-	\n➡️  Steveson vs Sharaf @ 265\n➡️  (#10) Vera vs Jourdain @ 135\n➡️  Tuivasa
-	 vs Despaigne @ 265\n➡️  Shahbazyan vs Ferreira @ 185\n\nEarly Prelims:\n➡️ 
-	 Chikadze vs Brito @ 145\n➡️  (#12) O'Neill vs (#13) Moura @ 125\n➡️  Gandra
-	 vs Diaz @ 185\n➡️  Aswell Jr. vs Yoo @ 145\n\nhttps://www.ufc.com/event/cr
-	yptocom-ufc-331\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Crypto.com Arena\, Los Angeles\nUnited States
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT7H
-END:VEVENT
-BEGIN:VEVENT
-UID:F9l22h8bGBM-7UtMWN9yU
-SUMMARY:UFC Fight Night: Gamrot vs. Salkilld
-DTSTAMP:20260812T203920Z
-DTSTART:20260808T210000Z
-DESCRIPTION:Main:\n➡️  (#8) Gamrot (+130) vs (#12) Salkilld (-155) 🏆 by SUB 
-	@ 155\n➡️  Ferreira (-175) 🏆 by DEC vs Quarantillo (+145) @ 155\n➡️  Elkins 
-	(+625) vs del Valle (-950) 🏆 by T/KO @ 145\n➡️  (#8) Lemos (+235) vs (#12) 
-	Thainara (-290) 🏆 by DEC @ 115\n➡️  Ray Goff (+320) vs Miller (-450) 🏆 by T
-	/KO @ 170\n\nPrelims:\n➡️  Asplund (-310) 🏆 by DEC vs Pat (+230) @ 265\n➡️  
-	Nurgozhay (-160) 🏆 by T/KO vs Lopes (+135) @ 205\n➡️  Sutherland (-210) vs 
-	Montanha (+160) 🏆 by SUB @ 265\n➡️  Sousa (-365) 🏆 by DEC vs Miranda (+265)
-	 @ 155\n➡️  Johns (-210) 🏆 by T/KO vs Vazquez (+160) @ 145\n➡️  Miller (-365
-	) 🏆 by SUB vs Oliveira (+265) @ 125\n➡️  Canuto (+180) vs Foro (-235) 🏆 by 
-	DEC @ 115\n\nhttps://www.ufc.com/event/ufc-fight-night-august-08-2026\n\nL
-	ast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Meta APEX\, Las Vegas\nUnited States
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:eef35MxtSV018yhkyAiwO
-SUMMARY:UFC Fight Night: Fiziev vs. Torres
-DTSTAMP:20260812T203920Z
-DTSTART:20260627T130000Z
-DESCRIPTION:Main:\n➡️  (#11) Fiziev (-110) 🏆 by T/KO vs (#15) Torres (-110) 
-	@ 155\n➡️  Magomedov (-425) 🏆 by DEC vs Pereira (+325) @ 185\n➡️  Sadykhov (
-	-190) vs Camilo (+150) 🏆 by T/KO @ 155\n➡️  (#9) Almabayev (-330) 🏆 by SUB 
-	vs (#14) Johnson (+240) @ 125\n➡️  Aliskerov (-275) 🏆 by DEC vs Ferreira (+
-	205) @ 185\n➡️  Magomedov (-105) 🏆 by SUB vs Oleksiejczuk (-120) @ 185\n\nP
-	relims:\n➡️  Hasanov (-170) 🏆 by DEC vs Nolan (+135) @ 170\n➡️  Rakhman Yakh
-	yaev (-750) 🏆 by T/KO vs Walker (+475) @ 205\n➡️  Ruziboev (-185) 🏆 by SUB 
-	vs Pulyaev (+154) @ 185\n➡️  Ofli (+190) 🏆 by SUB vs Reyes (-230) @ 145\n➡️ 
-	 Donchenko (-500) 🏆 by T/KO vs Berggren (+350) @ 170\n➡️  Almakhan (+140) v
-	s Matsumoto (-180) 🏆 by DEC @ 135\n➡️  Abdullayev (+120) 🏆 by T/KO vs Nasci
-	mento (-150) @ 170\n\nhttps://www.ufc.com/event/ufc-fight-night-june-27-20
-	26\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:National Gymnastics Arena\, Baku\nAzerbaijan
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:cgX1Pj-lENQKoFJ4_Oor7
-SUMMARY:UFC Fight Night: Della Maddalena vs. Prates
-DTSTAMP:20260812T203920Z
-DTSTART:20260502T080000Z
-DESCRIPTION:Main:\n➡️  (#1) Della Maddalena (+100) vs (#5) Prates (-125) 🏆 b
-	y T/KO @ 170\n➡️  (#12) Dariush (+300) vs Salkilld (-425) 🏆 by T/KO @ 155\n
-	➡️  (#11) Elliott (+145) vs (#12) Erceg (-185) 🏆 by DEC @ 125\n➡️  Rahiki (-
-	800) 🏆 by T/KO vs Schmid (+550) @ 145\n➡️  (#14) Gaziev (-112) vs Peričić (
-	-112) 🏆 by T/KO @ 265\n➡️  Tuivasa vs Sutherland 🏆 by DEC @ 265\n\nPrelims:
-	\n➡️  Rowston (-200) 🏆 by DEC vs Bryczek (+155) @ 185\n➡️  Tafa (-230) 🏆 by 
-	T/KO vs Christian (+175) @ 205\n➡️  Malkoun (-1600) 🏆 by DEC vs Meerschaert
-	 (+900) @ 185\n➡️  Thicknesse (-140) 🏆 by DEC vs Morales (+120) @ 135\n➡️  J
-	ohnston (-155) vs Schultz (+122) 🏆 by SUB @ 185\n➡️  Micallef (-225) 🏆 by D
-	EC vs Gorimbo (+185) @ 170\n➡️  Mar Fan (+130) vs Steele (-165) 🏆 by SUB @ 
-	155\n\nhttps://www.ufc.com/event/ufc-fight-night-may-02-2026\n\nLast Updat
-	ed August 12\, 2026 at 01:39 PM PDT
-LOCATION:RAC Arena\, Perth\nAustralia
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:RRSHhSsHnODSefew_0Hjb
-SUMMARY:UFC Fight Night: Sterling vs. Zalal
-DTSTAMP:20260812T203920Z
-DTSTART:20260425T210000Z
-DESCRIPTION:Main:\n➡️  (#5) Sterling (+115) 🏆 by DEC vs (#7) Zalal (-135) @ 
-	145\n➡️  (#3) Dumont (-220) vs (#11) Edwards (+170) 🏆 by DEC @ 135\n➡️  Garc
-	ia (-105) 🏆 by DEC vs Hernandez (-120) @ 155\n➡️  Grant (-120) 🏆 by DEC vs 
-	Luna Martinetti (-105) @ 135\n➡️  (#14) Jackson (-200) vs Barcelos (+165) 🏆
-	 by DEC @ 135\n➡️  Buchecha (-170) vs Spann (+135) 🏆 by T/KO @ 265\n\nPreli
-	ms:\n➡️  Vieira (-350) vs McConico (+255) 🏆 by DEC @ 185\n➡️  McVey (-200) 🏆
-	 by SUB vs Dumas (+155) @ 185\n➡️  (#12) Bueno Silva (+350) vs Montague (-5
-	00) 🏆 by DEC @ 135\n➡️  Filho (-700) vs Durden (+450) 🏆 by DEC @ 135\n➡️  Ma
-	rshall (-500) 🏆 by DEC vs Brennan (+375) @ 155\n➡️  Griffin (+105) vs Valen
-	zuela (-135) 🏆 by DEC @ 170\n➡️  Alencar (+195) 🏆 by DEC vs Polastri (-260)
-	 @ 115\n\nhttps://www.ufc.com/event/ufc-fight-night-april-25-2026\n\nLast 
-	Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Meta APEX\, Las Vegas\nUnited States
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:_EjF6XRDZVeyZ-j6ES2ug
+UID:cSOpO6qySp52h0il5Ahpx
 SUMMARY:UFC Fight Night: Muhammad vs. Bonfim
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260606T210000Z
 DESCRIPTION:Main:\n➡️  (#5) Muhammad (-115) vs (#11) Bonfim (-110) 🏆 by DEC 
 	@ 170\n➡️  (#4) Allen (-185) 🏆 by DEC vs Shahbazyan (+145) @ 185\n➡️  (#14) 
@@ -304,56 +150,74 @@ DESCRIPTION:Main:\n➡️  (#5) Muhammad (-115) vs (#11) Bonfim (-110) 🏆 by D
 	n➡️  Leavitt (+145) vs Brito (-185) 🏆 by SUB @ 145\n➡️  Chaves (-280) 🏆 by D
 	EC vs Duben (+210) @ 125\n➡️  Souza (-330) 🏆 by T/KO vs Carnelossi (+240) @
 	 115\n\nhttps://www.ufc.com/event/ufc-fight-night-june-06-2026\n\nLast Upd
-	ated August 12\, 2026 at 01:39 PM PDT
+	ated August 12\, 2026 at 06:43 PM PDT
 LOCATION:Meta APEX\, Las Vegas\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:PKiv1uOCdRBX4ywrsIKtQ
-SUMMARY:UFC 327: Prochazka vs. Ulberg
-DTSTAMP:20260812T203920Z
-DTSTART:20260411T213000Z
-DESCRIPTION:Main:\n➡️  (#2) Procházka vs (#3) Ulberg 🏆 by T/KO @ 205\n➡️  (#6
-	) Murzakanov vs Costa 🏆 by T/KO @ 205\n➡️  (#5) Blaydes vs Hokit 🏆 by DEC @
-	 265\n➡️  (#10) Reyes 🏆 by DEC vs (#12) Walker @ 205\n➡️  Swanson 🏆 by T/KO 
-	vs Landwehr @ 145\n\nPrelims:\n➡️  (#13) Pitbull vs Pico 🏆 by DEC @ 145\n➡️ 
-	 Holland 🏆 by DEC vs Brown @ 170\n➡️  (#8) Gamrot 🏆 by SUB vs Ribovics @ 15
-	5\n➡️  (#2) Suarez 🏆 by SUB vs (#6) Godinez @ 115\n\nEarly Prelims:\n➡️   ✍🏻
-	 Padilla vs Mederos @ 155\n➡️  Gastelum vs Luque 🏆 by SUB @ 185\n➡️  Radtke 
-	🏆 by DEC vs Prado @ 170\n\nhttps://www.ufc.com/event/ufc-327\n\nLast Updat
-	ed August 12\, 2026 at 01:39 PM PDT
-LOCATION:Kaseya Center\, Miami\nUnited States
+UID:P8QnmnHbQyCA47m8V8UKY
+SUMMARY:Crypto.com UFC 331: Van vs. Pantoja 2
+DTSTAMP:20260813T014346Z
+DTSTART:20260919T210000Z
+DESCRIPTION:Main:\n➡️  (C) Van (-110) vs (#1) Pantoja (-110) @ 125\n➡️  (#2) 
+	Tsarukyan vs (#7) Ruffy @ 155\n➡️  (#15) Pitbull vs Choi @ 145\n➡️  (#11) Mo
+	icano vs Ortega @ 155\n➡️  (#14) Menifield vs Baraniewski @ 205\n\nPrelims:
+	\n➡️  Steveson vs Sharaf @ 265\n➡️  (#10) Vera vs Jourdain @ 135\n➡️  Tuivasa
+	 vs Despaigne @ 265\n➡️  Shahbazyan vs Ferreira @ 185\n\nEarly Prelims:\n➡️ 
+	 Chikadze vs Brito @ 145\n➡️  (#12) O'Neill vs (#13) Moura @ 125\n➡️  Gandra
+	 vs Diaz @ 185\n➡️  Aswell Jr. vs Yoo @ 145\n\nhttps://www.ufc.com/event/cr
+	yptocom-ufc-331\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Crypto.com Arena\, Los Angeles\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT7H
+END:VEVENT
+BEGIN:VEVENT
+UID:C0rhFN5pEn3diIiw2cUf0
+SUMMARY:UFC 330: Makhachev vs. Machado Garry
+DTSTAMP:20260813T014346Z
+DTSTART:20260815T213000Z
+DESCRIPTION:Main:\n➡️  (C) Makhachev (-350) vs (#1) Machado Garry (+275) @ 1
+	70\n➡️  (C) Dern (-220) vs (#5) Robertson (+180) @ 115\n➡️  Turner (-160) vs
+	 Fernandes (+135) @ 155\n➡️  Abdul-Malik (-650) vs Stoltzfus (+475) @ 185\n
+	➡️  Barboza (+425) vs Ribovics (-575) @ 155\n\nPrelims:\n➡️  Njokuani (+235)
+	 vs Álvarez (-300) @ 170\n➡️  Johnson vs Chapolin @ CW\n➡️  Johnson (-240) v
+	s McConico (+195) @ 185\n➡️  Luque (+100) vs Gore (-120) @ 185\n\nEarly Pre
+	lims:\n➡️  Tobias (+240) vs Fernando (-300) @ 205\n➡️  Magny (+110) vs Brahi
+	maj (-130) @ 170\n➡️  Wells (+600) vs Orolbai (-900) @ 170\n\nhttps://www.u
+	fc.com/event/ufc-330\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Xfinity Mobile Arena\, Philadelphia\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H30M
 END:VEVENT
 BEGIN:VEVENT
-UID:w3PVDogaX3LpIyPZ9SA9w
-SUMMARY:UFC Fight Night: Kape vs. Horiguchi
-DTSTAMP:20260812T203920Z
-DTSTART:20260620T210000Z
-DESCRIPTION:Main:\n➡️  (#2) Kape (-165) 🏆 by T/KO vs (#5) Horiguchi (+140) @
-	 125\n➡️  Cutelaba (+250) vs Stirling (-310) 🏆 by T/KO @ 205\n➡️  Amil (+190
-	) vs Rodriguez (-250) 🏆 by SUB @ 145\n➡️  Baghdasaryan (+310) vs Magomedov 
-	(-440) 🏆 by SUB @ 145\n➡️  Oliveira (-245) 🏆 by T/KO vs Fili (+200) @ 145\n
-	\nPrelims:\n➡️  Lima (-700) vs Borjas (+450) 🏆 by DEC @ 125\n➡️  (#13) Mesqu
-	ita (-650) 🏆 by SUB vs Mullins (+425) @ 135\n➡️  Nascimento (-155) vs Rapos
-	o (+130) 🏆 by DEC @ 125\n➡️  Bolanos (+310) 🏆 by DEC vs Aswell Jr. (-390) @
-	 145\n➡️  Shahbazyan (+280) vs Chokheli (-390) 🏆 by T/KO @ 170\n➡️  (#8) Ros
-	a (-115) vs (#11) Santos (-110) 🏆 by DEC @ 135\n➡️  Collins (-210) 🏆 by DEC
-	 vs Tanzilovi (+160) @ 145\n\nhttps://www.ufc.com/event/ufc-fight-night-ju
-	ne-20-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
+UID:0lQYmGJVM-T8FvaEY7iPk
+SUMMARY:UFC Fight Night: Gamrot vs. Salkilld
+DTSTAMP:20260813T014346Z
+DTSTART:20260808T210000Z
+DESCRIPTION:Main:\n➡️  (#8) Gamrot (+130) vs (#12) Salkilld (-155) 🏆 by SUB 
+	@ 155\n➡️  Ferreira (-175) 🏆 by DEC vs Quarantillo (+145) @ 155\n➡️  Elkins 
+	(+625) vs del Valle (-950) 🏆 by T/KO @ 145\n➡️  (#8) Lemos (+235) vs (#12) 
+	Thainara (-290) 🏆 by DEC @ 115\n➡️  Ray Goff (+320) vs Miller (-450) 🏆 by T
+	/KO @ 170\n\nPrelims:\n➡️  Asplund (-310) 🏆 by DEC vs Pat (+230) @ 265\n➡️  
+	Nurgozhay (-160) 🏆 by T/KO vs Lopes (+135) @ 205\n➡️  Sutherland (-210) vs 
+	Montanha (+160) 🏆 by SUB @ 265\n➡️  Sousa (-365) 🏆 by DEC vs Miranda (+265)
+	 @ 155\n➡️  Johns (-210) 🏆 by T/KO vs Vazquez (+160) @ 145\n➡️  Miller (-365
+	) 🏆 by SUB vs Oliveira (+265) @ 125\n➡️  Canuto (+180) vs Foro (-235) 🏆 by 
+	DEC @ 115\n\nhttps://www.ufc.com/event/ufc-fight-night-august-08-2026\n\nL
+	ast Updated August 12\, 2026 at 06:43 PM PDT
 LOCATION:Meta APEX\, Las Vegas\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:yQLfljCEaaMb5ylUGg1rR
+UID:kz5zltMdZVx7rMonT-al2
 SUMMARY:UFC Fight Night: Burns vs. Malott
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260418T210000Z
 DESCRIPTION:Main:\n➡️  (#11) Burns vs Malott 🏆 by T/KO @ 170\n➡️  Phillips vs
 	 Jourdain 🏆 by DEC @ 135\n➡️  Nallo vs Herbert 🏆 by T/KO @ 155\n➡️  (#7) Jas
@@ -363,38 +227,16 @@ DESCRIPTION:Main:\n➡️  (#11) Burns vs Malott 🏆 by T/KO @ 170\n➡️  Phi
 	s Zhelezniakova @ 135\n➡️  (#14) Aldrich 🏆 by DEC vs Horth @ 125\n➡️   ✍🏻 Ca
 	staneda vs Vologdin @ CW\n➡️  Siraj vs Yannis 🏆 by T/KO @ 135\n\nhttps://ww
 	w.ufc.com/event/ufc-fight-night-april-18-2026\n\nLast Updated August 12\, 
-	2026 at 01:39 PM PDT
+	2026 at 06:43 PM PDT
 LOCATION:Canada Life Centre\, Winnipeg\nCanada
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:i5bfg8g5PG9NDYJKbU-ex
-SUMMARY:UFC Fight Night: Medic vs. Rodriguez
-DTSTAMP:20260812T203920Z
-DTSTART:20260801T140000Z
-DESCRIPTION:Main:\n➡️  (#14) Medić (-425) 🏆 by T/KO vs (#15) Rodriguez (+300
-	) @ 170\n➡️  (#4) Błachowicz (+265) vs (#15) Stirling (-365) 🏆 by T/KO @ 20
-	5\n➡️  (#12) Rakić 🏆 by DEC vs Tybura @ 265\n➡️  Todorović (+125) vs Valenti
-	n (-160) 🏆 by SUB @ 185\n➡️  Čepo (-340) vs Urbina (+270) 🏆 by T/KO @ 185\n
-	➡️  Janičić (-105) vs Gugnon (-120) 🏆 by SUB @ 155\n\nPrelims:\n➡️  Klein (-
-	275) vs Musayev (+205) 🏆 by T/KO @ 155\n➡️  Elliott (+275) vs Oliveira (-38
-	0) 🏆 by T/KO @ 170\n➡️  Nikolić (-210) 🏆 by DEC vs Vologdin (+160) @ 135\n➡️
-	  Buzukja (+170) vs Grad (-205) 🏆 by SUB @ 145\n➡️  Rębecki (-800) 🏆 by T/K
-	O vs Prepolec (+500) @ 155\n➡️  Milošević (-550) 🏆 by T/KO vs Cowan (+375) 
-	@ 135\n➡️  Leka (-305) 🏆 by T/KO vs Poppeck (+245) @ 265\n➡️  Spasić (+260) 
-	vs Luciano (-360) 🏆 by SUB @ 115\n\nhttps://www.ufc.com/event/ufc-fight-ni
-	ght-august-01-2026\n\nLast Updated August 12\, 2026 at 01:39 PM PDT
-LOCATION:Belgrade Arena\, BG\nSerbia
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-DURATION:PT6H
-END:VEVENT
-BEGIN:VEVENT
-UID:wIedhBG9IvHXSujWJGnDf
+UID:fh4B6zphhQQBVGhQbYBa3
 SUMMARY:UFC Fight Night: Song vs. Figueiredo
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260530T080000Z
 DESCRIPTION:Main:\n➡️  (#5) Yadong (-600) 🏆 by SUB vs (#7) Figueiredo (+440)
 	 @ 135\n➡️  (#15) Mingyang vs Menifield 🏆 by T/KO @ 205\n➡️  (#3) Pavlovich 
@@ -407,16 +249,164 @@ DESCRIPTION:Main:\n➡️  (#5) Yadong (-600) 🏆 by SUB vs (#7) Figueiredo (+4
 	160) 🏆 by DEC vs Jingnan (-210) @ 115\n➡️  Kangjie (-115) vs Vera (-105) 🏆 
 	by T/KO @ 145\n➡️  Lookboonmee (+102) vs Amorim (-130) 🏆 by SUB @ 115\n\nht
 	tps://www.ufc.com/event/ufc-fight-night-may-30-2026\n\nLast Updated August
-	 12\, 2026 at 01:39 PM PDT
+	 12\, 2026 at 06:43 PM PDT
 LOCATION:Galaxy Arena\, Macao
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
 END:VEVENT
 BEGIN:VEVENT
-UID:JgwreG1w4YQcGewxY_lVn
+UID:Bkd5NdfV9fTJyFfcJwJeE
+SUMMARY:UFC Fight Night: Du Plessis vs. Usman
+DTSTAMP:20260813T014346Z
+DTSTART:20260718T210000Z
+DESCRIPTION:Main:\n➡️  (#2) Du Plessis (-235) 🏆 by DEC vs (#9) Usman (+180) 
+	@ 185\n➡️  (#10) Cannonier (+270) vs (#12) Leroy Duncan (-340) 🏆 by DEC @ 1
+	85\n➡️  Hooper (-390) 🏆 by SUB vs Ramirez (+280) @ 155\n➡️  (#8) Ricci (+350
+	) vs (#11) Kline (-500) 🏆 by DEC @ 115\n➡️  McMillen (-200) 🏆 by T/KO vs Mo
+	ntes (+155) @ 145\n\nPrelims:\n➡️  Bashi (-145) vs Miguel Delgado (+115) 🏆 
+	by DEC @ 145\n➡️  Lebosnoyani (+150) 🏆 by DEC vs Ko (-190) @ 170\n➡️  Rodrig
+	ues Jr. (-160) vs Franco (+125) 🏆 by T/KO @ 205\n➡️  Elliot (+105) 🏆 by DEC
+	 vs Anderson (-135) @ 145\n➡️  Coria (-1300) 🏆 by DEC vs Nicoll (+675) @ 12
+	5\n➡️  Harris (+100) 🏆 by T/KO vs Hines (-125) @ 265\n➡️  Melisano (+425) vs
+	 Barbosa (-650) 🏆 by SUB @ 125\n\nhttps://www.ufc.com/event/ufc-fight-nigh
+	t-july-18-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Paycom Center\, Oklahoma City\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:z__341K0mk5tpJ4VxUEY5
+SUMMARY:UFC Fight Night: Ankalaev vs. Guskov
+DTSTAMP:20260813T014346Z
+DTSTART:20260725T130000Z
+DESCRIPTION:Main:\n➡️  (#1) Ankalaev (-535) 🏆 by T/KO vs (#9) Guskov (+400) 
+	@ 205\n➡️  (#10) Erceg (-115) vs Temirov (-105) 🏆 by T/KO @ 125\n➡️  Zaynuko
+	v (-270) 🏆 by DEC vs Rzepecki (+220) @ 155\n➡️  (#8) Kuniev (-350) 🏆 by T/K
+	O vs (#9) Fortune (+255) @ 265\n➡️  Vagaev (-260) 🏆 by DEC vs Izagakhmaev (
+	+195) @ 170\n➡️  Bonfim (+165) vs Sola (-200) 🏆 by SUB @ 155\n\nPrelims:\n➡️
+	  (#13) Walker (-185) 🏆 by SUB vs Petersen (+145) @ 265\n➡️  Jacoby (-185) 
+	vs Saidov (+145) 🏆 by T/KO @ 205\n➡️  Ponzinibbio (+375) vs Patterson (-500
+	) 🏆 by T/KO @ 170\n➡️  Tuchalov (-900) 🏆 by DEC vs Ribeiro (+550) @ 205\n➡️ 
+	 Aliev (-220) 🏆 by DEC vs Davis (+170) @ 155\n➡️  Gibson (+400) vs Hussein 
+	(-600) 🏆 by SUB @ 135\n\nhttps://www.ufc.com/event/ufc-fight-night-july-25
+	-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Etihad Arena\, Yas Island/Yas West\nUnited Arab Emirates
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:GmEVCHNvNel4Iv9aYyiXX
+SUMMARY:UFC Fight Night: Sterling vs. Zalal
+DTSTAMP:20260813T014346Z
+DTSTART:20260425T210000Z
+DESCRIPTION:Main:\n➡️  (#5) Sterling (+115) 🏆 by DEC vs (#7) Zalal (-135) @ 
+	145\n➡️  (#3) Dumont (-220) vs (#11) Edwards (+170) 🏆 by DEC @ 135\n➡️  Garc
+	ia (-105) 🏆 by DEC vs Hernandez (-120) @ 155\n➡️  Grant (-120) 🏆 by DEC vs 
+	Luna Martinetti (-105) @ 135\n➡️  (#14) Jackson (-200) vs Barcelos (+165) 🏆
+	 by DEC @ 135\n➡️  Buchecha (-170) vs Spann (+135) 🏆 by T/KO @ 265\n\nPreli
+	ms:\n➡️  Vieira (-350) vs McConico (+255) 🏆 by DEC @ 185\n➡️  McVey (-200) 🏆
+	 by SUB vs Dumas (+155) @ 185\n➡️  (#12) Bueno Silva (+350) vs Montague (-5
+	00) 🏆 by DEC @ 135\n➡️  Filho (-700) vs Durden (+450) 🏆 by DEC @ 135\n➡️  Ma
+	rshall (-500) 🏆 by DEC vs Brennan (+375) @ 155\n➡️  Griffin (+105) vs Valen
+	zuela (-135) 🏆 by DEC @ 170\n➡️  Alencar (+195) 🏆 by DEC vs Polastri (-260)
+	 @ 115\n\nhttps://www.ufc.com/event/ufc-fight-night-april-25-2026\n\nLast 
+	Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Meta APEX\, Las Vegas\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:hHcSVhjBv6kEZlQD4E8oF
+SUMMARY:UFC Fight Night: Kape vs. Horiguchi
+DTSTAMP:20260813T014346Z
+DTSTART:20260620T210000Z
+DESCRIPTION:Main:\n➡️  (#2) Kape (-165) 🏆 by T/KO vs (#5) Horiguchi (+140) @
+	 125\n➡️  Cutelaba (+250) vs Stirling (-310) 🏆 by T/KO @ 205\n➡️  Amil (+190
+	) vs Rodriguez (-250) 🏆 by SUB @ 145\n➡️  Baghdasaryan (+310) vs Magomedov 
+	(-440) 🏆 by SUB @ 145\n➡️  Oliveira (-245) 🏆 by T/KO vs Fili (+200) @ 145\n
+	\nPrelims:\n➡️  Lima (-700) vs Borjas (+450) 🏆 by DEC @ 125\n➡️  (#13) Mesqu
+	ita (-650) 🏆 by SUB vs Mullins (+425) @ 135\n➡️  Nascimento (-155) vs Rapos
+	o (+130) 🏆 by DEC @ 125\n➡️  Bolanos (+310) 🏆 by DEC vs Aswell Jr. (-390) @
+	 145\n➡️  Shahbazyan (+280) vs Chokheli (-390) 🏆 by T/KO @ 170\n➡️  (#8) Ros
+	a (-115) vs (#11) Santos (-110) 🏆 by DEC @ 135\n➡️  Collins (-210) 🏆 by DEC
+	 vs Tanzilovi (+160) @ 145\n\nhttps://www.ufc.com/event/ufc-fight-night-ju
+	ne-20-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Meta APEX\, Las Vegas\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:ZDB6ZcrQB94vt_oQWc98t
+SUMMARY:UFC Fight Night: Allen vs. Costa
+DTSTAMP:20260813T014346Z
+DTSTART:20260516T210000Z
+DESCRIPTION:Main:\n➡️  (#7) Allen (-125) 🏆 by DEC vs (#12) Costa (+105) @ 14
+	5\n➡️  Choi (+135) 🏆 by T/KO vs Santos (-170) @ 145\n➡️  Wellmaker (-275) vs
+	 Diaz (+205) 🏆 by SUB @ 135\n➡️  Bukauskas (-325) 🏆 by DEC vs Edwards (+260
+	) @ CW\n➡️  Cuamba (+102) vs Sopaj (-130) 🏆 by SUB @ 135\n➡️  Veretennikov (
+	+100) vs Williams (-125) 🏆 by T/KO @ 170\n\nPrelims:\n➡️  Tokkos (+135) vs 
+	Erslan (-170) 🏆 by DEC @ 205\n➡️  Gantt (-185) 🏆 by T/KO vs Minev (+145) @ 
+	155\n➡️  (#5) Vieira (+125) 🏆 by DEC vs (#11) Cavalcanti (-160) @ 135\n➡️  B
+	rundage (+130) 🏆 by T/KO vs Petroski (-155) @ 185\n➡️  Ardelean (-200) 🏆 by
+	 SUB vs Viana (+155) @ 115\n➡️  Barez (+130) vs Gurule (-165) 🏆 by DEC @ 12
+	5\n➡️  Bannon (+230) vs Caliari (-310) 🏆 by SUB @ 115\n\nhttps://www.ufc.co
+	m/event/ufc-fight-night-may-16-2026\n\nLast Updated August 12\, 2026 at 06
+	:43 PM PDT
+LOCATION:Meta APEX\, Las Vegas\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:n2X1Awc3WPa4-KdYt8coD
+SUMMARY:UFC 327: Prochazka vs. Ulberg
+DTSTAMP:20260813T014346Z
+DTSTART:20260411T213000Z
+DESCRIPTION:Main:\n➡️  (#2) Procházka vs (#3) Ulberg 🏆 by T/KO @ 205\n➡️  (#6
+	) Murzakanov vs Costa 🏆 by T/KO @ 205\n➡️  (#5) Blaydes vs Hokit 🏆 by DEC @
+	 265\n➡️  (#10) Reyes 🏆 by DEC vs (#12) Walker @ 205\n➡️  Swanson 🏆 by T/KO 
+	vs Landwehr @ 145\n\nPrelims:\n➡️  (#13) Pitbull vs Pico 🏆 by DEC @ 145\n➡️ 
+	 Holland 🏆 by DEC vs Brown @ 170\n➡️  (#8) Gamrot 🏆 by SUB vs Ribovics @ 15
+	5\n➡️  (#2) Suarez 🏆 by SUB vs (#6) Godinez @ 115\n\nEarly Prelims:\n➡️   ✍🏻
+	 Padilla vs Mederos @ 155\n➡️  Gastelum vs Luque 🏆 by SUB @ 185\n➡️  Radtke 
+	🏆 by DEC vs Prado @ 170\n\nhttps://www.ufc.com/event/ufc-327\n\nLast Updat
+	ed August 12\, 2026 at 06:43 PM PDT
+LOCATION:Kaseya Center\, Miami\nUnited States
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H30M
+END:VEVENT
+BEGIN:VEVENT
+UID:oNLjT6sCK7Fg_TqVQ_LXx
+SUMMARY:UFC Fight Night: Medic vs. Rodriguez
+DTSTAMP:20260813T014346Z
+DTSTART:20260801T140000Z
+DESCRIPTION:Main:\n➡️  (#14) Medić (-425) 🏆 by T/KO vs (#15) Rodriguez (+300
+	) @ 170\n➡️  (#4) Błachowicz (+265) vs (#15) Stirling (-365) 🏆 by T/KO @ 20
+	5\n➡️  (#12) Rakić 🏆 by DEC vs Tybura @ 265\n➡️  Todorović (+125) vs Valenti
+	n (-160) 🏆 by SUB @ 185\n➡️  Čepo (-340) vs Urbina (+270) 🏆 by T/KO @ 185\n
+	➡️  Janičić (-105) vs Gugnon (-120) 🏆 by SUB @ 155\n\nPrelims:\n➡️  Klein (-
+	275) vs Musayev (+205) 🏆 by T/KO @ 155\n➡️  Elliott (+275) vs Oliveira (-38
+	0) 🏆 by T/KO @ 170\n➡️  Nikolić (-210) 🏆 by DEC vs Vologdin (+160) @ 135\n➡️
+	  Buzukja (+170) vs Grad (-205) 🏆 by SUB @ 145\n➡️  Rębecki (-800) 🏆 by T/K
+	O vs Prepolec (+500) @ 155\n➡️  Milošević (-550) 🏆 by T/KO vs Cowan (+375) 
+	@ 135\n➡️  Leka (-305) 🏆 by T/KO vs Poppeck (+245) @ 265\n➡️  Spasić (+260) 
+	vs Luciano (-360) 🏆 by SUB @ 115\n\nhttps://www.ufc.com/event/ufc-fight-ni
+	ght-august-01-2026\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:Belgrade Arena\, BG\nSerbia
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:bgeiV9BL_-XLNKjwLdY3N
 SUMMARY:UFC 329: McGregor vs. Holloway 2
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260711T210000Z
 DESCRIPTION:Main:\n➡️  McGregor vs Holloway 🏆 by T/KO @ 170\n➡️  (#5) Saint D
 	enis (-130) vs (#6) Pimblett (+110) 🏆 by SUB @ 155\n➡️  (#4) Sandhagen (-14
@@ -430,16 +420,16 @@ DESCRIPTION:Main:\n➡️  McGregor vs Holloway 🏆 by T/KO @ 170\n➡️  (#5)
 	n➡️  (#15) Basharat (-600) 🏆 by DEC vs Garza (+450) @ 135\n➡️  Gandra (-145)
 	 🏆 by T/KO vs Reese (+115) @ 185\n➡️  Costa (-235) 🏆 by SUB vs Durden (+180
 	) @ 125\n\nhttps://www.ufc.com/event/ufc-329\n\nLast Updated August 12\, 2
-	026 at 01:39 PM PDT
+	026 at 06:43 PM PDT
 LOCATION:T-Mobile Arena\, Las Vegas\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT7H
 END:VEVENT
 BEGIN:VEVENT
-UID:2D_mJVLLFUD7vTq2Q_lPl
+UID:YqK-q1qokwlKDln22d7Tr
 SUMMARY:UFC 328: Chimaev vs. Strickland
-DTSTAMP:20260812T203920Z
+DTSTAMP:20260813T014346Z
 DTSTART:20260509T210000Z
 DESCRIPTION:Main:\n➡️  (C) Chimaev (-500) vs (#3) Strickland (+350) 🏆 by DEC
 	 @ 185\n➡️  (C) Van (+130) 🏆 by T/KO vs (#3) Taira (-165) @ 125\n➡️  (#2) Vo
@@ -452,30 +442,52 @@ DESCRIPTION:Main:\n➡️  (C) Chimaev (-500) vs (#3) Strickland (+350) 🏆 by 
 	-190) @ 185\n➡️  Sabatini (-170) 🏆 by DEC vs Gomis (+142) @ 145\n➡️  Susurka
 	ev (-750) 🏆 by SUB vs Santos (+475) @ 185\n➡️  Carpenter (+150) vs Ochoa (-
 	180) 🏆 by DEC @ 125\n\nhttps://www.ufc.com/event/ufc-328\n\nLast Updated A
-	ugust 12\, 2026 at 01:39 PM PDT
+	ugust 12\, 2026 at 06:43 PM PDT
 LOCATION:Prudential Center\, Newark\nUnited States
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT7H
 END:VEVENT
 BEGIN:VEVENT
-UID:e9GnMOJGWiOafZLCYFQFF
-SUMMARY:UFC Fight Night: Allen vs. Costa
-DTSTAMP:20260812T203920Z
-DTSTART:20260516T210000Z
-DESCRIPTION:Main:\n➡️  (#7) Allen (-125) 🏆 by DEC vs (#12) Costa (+105) @ 14
-	5\n➡️  Choi (+135) 🏆 by T/KO vs Santos (-170) @ 145\n➡️  Wellmaker (-275) vs
-	 Diaz (+205) 🏆 by SUB @ 135\n➡️  Bukauskas (-325) 🏆 by DEC vs Edwards (+260
-	) @ CW\n➡️  Cuamba (+102) vs Sopaj (-130) 🏆 by SUB @ 135\n➡️  Veretennikov (
-	+100) vs Williams (-125) 🏆 by T/KO @ 170\n\nPrelims:\n➡️  Tokkos (+135) vs 
-	Erslan (-170) 🏆 by DEC @ 205\n➡️  Gantt (-185) 🏆 by T/KO vs Minev (+145) @ 
-	155\n➡️  (#5) Vieira (+125) 🏆 by DEC vs (#11) Cavalcanti (-160) @ 135\n➡️  B
-	rundage (+130) 🏆 by T/KO vs Petroski (-155) @ 185\n➡️  Ardelean (-200) 🏆 by
-	 SUB vs Viana (+155) @ 115\n➡️  Barez (+130) vs Gurule (-165) 🏆 by DEC @ 12
-	5\n➡️  Bannon (+230) vs Caliari (-310) 🏆 by SUB @ 115\n\nhttps://www.ufc.co
-	m/event/ufc-fight-night-may-16-2026\n\nLast Updated August 12\, 2026 at 01
-	:39 PM PDT
-LOCATION:Meta APEX\, Las Vegas\nUnited States
+UID:l5wxhp0nTOChBKI5mGG-t
+SUMMARY:UFC Fight Night: Della Maddalena vs. Prates
+DTSTAMP:20260813T014346Z
+DTSTART:20260502T080000Z
+DESCRIPTION:Main:\n➡️  (#1) Della Maddalena (+100) vs (#5) Prates (-125) 🏆 b
+	y T/KO @ 170\n➡️  (#12) Dariush (+300) vs Salkilld (-425) 🏆 by T/KO @ 155\n
+	➡️  (#11) Elliott (+145) vs (#12) Erceg (-185) 🏆 by DEC @ 125\n➡️  Rahiki (-
+	800) 🏆 by T/KO vs Schmid (+550) @ 145\n➡️  (#14) Gaziev (-112) vs Peričić (
+	-112) 🏆 by T/KO @ 265\n➡️  Tuivasa vs Sutherland 🏆 by DEC @ 265\n\nPrelims:
+	\n➡️  Rowston (-200) 🏆 by DEC vs Bryczek (+155) @ 185\n➡️  Tafa (-230) 🏆 by 
+	T/KO vs Christian (+175) @ 205\n➡️  Malkoun (-1600) 🏆 by DEC vs Meerschaert
+	 (+900) @ 185\n➡️  Thicknesse (-140) 🏆 by DEC vs Morales (+120) @ 135\n➡️  J
+	ohnston (-155) vs Schultz (+122) 🏆 by SUB @ 185\n➡️  Micallef (-225) 🏆 by D
+	EC vs Gorimbo (+185) @ 170\n➡️  Mar Fan (+130) vs Steele (-165) 🏆 by SUB @ 
+	155\n\nhttps://www.ufc.com/event/ufc-fight-night-may-02-2026\n\nLast Updat
+	ed August 12\, 2026 at 06:43 PM PDT
+LOCATION:RAC Arena\, Perth\nAustralia
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+DURATION:PT6H
+END:VEVENT
+BEGIN:VEVENT
+UID:YW-mWMXwLhsBDibkYSPcz
+SUMMARY:UFC Fight Night: Fiziev vs. Torres
+DTSTAMP:20260813T014346Z
+DTSTART:20260627T130000Z
+DESCRIPTION:Main:\n➡️  (#11) Fiziev (-110) 🏆 by T/KO vs (#15) Torres (-110) 
+	@ 155\n➡️  Magomedov (-425) 🏆 by DEC vs Pereira (+325) @ 185\n➡️  Sadykhov (
+	-190) vs Camilo (+150) 🏆 by T/KO @ 155\n➡️  (#9) Almabayev (-330) 🏆 by SUB 
+	vs (#14) Johnson (+240) @ 125\n➡️  Aliskerov (-275) 🏆 by DEC vs Ferreira (+
+	205) @ 185\n➡️  Magomedov (-105) 🏆 by SUB vs Oleksiejczuk (-120) @ 185\n\nP
+	relims:\n➡️  Hasanov (-170) 🏆 by DEC vs Nolan (+135) @ 170\n➡️  Rakhman Yakh
+	yaev (-750) 🏆 by T/KO vs Walker (+475) @ 205\n➡️  Ruziboev (-185) 🏆 by SUB 
+	vs Pulyaev (+154) @ 185\n➡️  Ofli (+190) 🏆 by SUB vs Reyes (-230) @ 145\n➡️ 
+	 Donchenko (-500) 🏆 by T/KO vs Berggren (+350) @ 170\n➡️  Almakhan (+140) v
+	s Matsumoto (-180) 🏆 by DEC @ 135\n➡️  Abdullayev (+120) 🏆 by T/KO vs Nasci
+	mento (-150) @ 170\n\nhttps://www.ufc.com/event/ufc-fight-night-june-27-20
+	26\n\nLast Updated August 12\, 2026 at 06:43 PM PDT
+LOCATION:National Gymnastics Arena\, Baku\nAzerbaijan
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 DURATION:PT6H
